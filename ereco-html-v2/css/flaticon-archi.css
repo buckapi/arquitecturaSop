@@ -1,0 +1,80 @@
+	/*
+  	Flaticon icon font: flaticon-archi
+  	Creation date: 12/01/2021 17:03
+  	*/
+
+@font-face {
+  font-family: "flaticon-archi";
+  src: url("../fonts/flaticon-archi/flaticon-archi.eot");
+  src: url("../fonts/flaticon-archi/flaticon-archi.eot?") format("embedded-opentype"),
+       url("../fonts/flaticon-archi/flaticon-archi.woff2") format("woff2"),
+       url("../fonts/flaticon-archi/flaticon-archi.woff") format("woff"),
+       url("../fonts/flaticon-archi/flaticon-archi.ttf") format("truetype"),
+       url("../fonts/flaticon-archi/flaticon-archi.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "flaticon-archi";
+    src: url("../fonts/flaticon-archi/flaticon-archi.svg") format("svg");
+  }
+}
+
+[class^="flaticon-archi-"]:before, [class*=" flaticon-archi-"]:before,
+[class^="flaticon-archi-"]:after, [class*=" flaticon-archi-"]:after {   
+  font-family: flaticon-archi;
+  font-style: normal;
+}
+
+.flaticon-archi-hook:before { content: "\f100"; }
+.flaticon-archi-plan:before { content: "\f101"; }
+.flaticon-archi-ruler:before { content: "\f102"; }
+.flaticon-archi-sketch:before { content: "\f103"; }
+.flaticon-archi-fence:before { content: "\f104"; }
+.flaticon-archi-meter:before { content: "\f105"; }
+.flaticon-archi-location:before { content: "\f106"; }
+.flaticon-archi-mobile-phone:before { content: "\f107"; }
+.flaticon-archi-expand:before { content: "\f108"; }
+.flaticon-archi-building:before { content: "\f109"; }
+.flaticon-archi-house:before { content: "\f10a"; }
+.flaticon-archi-barrier:before { content: "\f10b"; }
+.flaticon-archi-price:before { content: "\f10c"; }
+.flaticon-archi-cost:before { content: "\f10d"; }
+.flaticon-archi-wall:before { content: "\f10e"; }
+.flaticon-archi-web:before { content: "\f10f"; }
+.flaticon-archi-search:before { content: "\f110"; }
+.flaticon-archi-printer:before { content: "\f111"; }
+.flaticon-archi-decoration:before { content: "\f112"; }
+.flaticon-archi-stairs:before { content: "\f113"; }
+.flaticon-archi-stationery:before { content: "\f114"; }
+.flaticon-archi-section:before { content: "\f115"; }
+.flaticon-archi-approve:before { content: "\f116"; }
+.flaticon-archi-bridge:before { content: "\f117"; }
+.flaticon-archi-building-1:before { content: "\f118"; }
+.flaticon-archi-screwdriver:before { content: "\f119"; }
+.flaticon-archi-house-design:before { content: "\f11a"; }
+.flaticon-archi-budget:before { content: "\f11b"; }
+.flaticon-archi-crane:before { content: "\f11c"; }
+.flaticon-archi-house-design-1:before { content: "\f11d"; }
+.flaticon-archi-house-sketch:before { content: "\f11e"; }
+.flaticon-archi-architect:before { content: "\f11f"; }
+.flaticon-archi-architect-1:before { content: "\f120"; }
+.flaticon-archi-construction:before { content: "\f121"; }
+.flaticon-archi-table:before { content: "\f122"; }
+.flaticon-archi-design:before { content: "\f123"; }
+.flaticon-archi-award:before { content: "\f124"; }
+.flaticon-archi-web-1:before { content: "\f125"; }
+.flaticon-archi-idea:before { content: "\f126"; }
+.flaticon-archi-paint:before { content: "\f127"; }
+.flaticon-archi-house-design-2:before { content: "\f128"; }
+.flaticon-archi-house-design-3:before { content: "\f129"; }
+.flaticon-archi-house-design-4:before { content: "\f12a"; }
+.flaticon-archi-compass:before { content: "\f12b"; }
+.flaticon-archi-plan-1:before { content: "\f12c"; }
+.flaticon-archi-color-palette:before { content: "\f12d"; }
+.flaticon-archi-ruler-1:before { content: "\f12e"; }
+.flaticon-archi-ruler-2:before { content: "\f12f"; }
+.flaticon-archi-building-2:before { content: "\f130"; }
+.flaticon-archi-3d:before { content: "\f131"; }
